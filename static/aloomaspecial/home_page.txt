@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How often should our grease trap be serviced?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While it varies by volume, most commercial kitchens require service every 30 to 90 days. We recommend a schedule that ensures the grease and solids never exceed 25% of the trap's capacity to avoid backups and odors.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Does your service include the disposal of the collected grease?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we handle the entire process. We pump the waste, transport it to a licensed facility, and ensure it is disposed of or recycled in full compliance with environmental laws.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can you service our hoods and grease traps at the same time?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. We specialize in comprehensive kitchen maintenance and can coordinate both services to minimize the number of visits and disruptions to your kitchen.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What happens if we fail a city inspection?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">If you have a compliance issue, contact us immediately. We can perform an emergency clean-out and provide the necessary documentation to help you resolve the violation quickly.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer service for national accounts with multiple locations?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we specialize in national account management, providing centralized billing, standardized reporting, and a single point of contact for all your locations across the U.S.</p>
+                <div class="callalooma mx-auto"><a href="tel:801346-9061">Click Here To Call Us (801) 346-9061</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
